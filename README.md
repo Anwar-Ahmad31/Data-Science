@@ -1,2 +1,3 @@
-# numpy-practice
-My NumPy learning journey
+# Data-Science
+My Data Science learning journey
+
